@@ -1,0 +1,3 @@
+[submodule "subr/super"]
+	path = subr/super
+	url = git@91.250.81.14:testone.git
